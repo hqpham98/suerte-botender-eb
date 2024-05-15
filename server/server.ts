@@ -5,7 +5,6 @@ import {
   ClientError,
   defaultMiddleware,
   errorMiddleware,
-  authMiddleware,
 } from './lib/index.js';
 import OpenAI from 'openai';
 
