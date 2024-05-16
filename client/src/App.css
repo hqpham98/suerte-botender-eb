@@ -95,6 +95,7 @@ button {
   color: #eee;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 14px;
+  padding: 1rem;
 }
 
 .recipeHeader {
@@ -203,6 +204,7 @@ footer {
   .recipeContainer {
     height: 350px;
     width: 440px;
+    max-width: 100%;
     color: #eee;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 12px;
